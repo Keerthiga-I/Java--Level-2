@@ -17,8 +17,8 @@ public static void main (String[] args)
         System.out.println("Sum of value:" + x);
         int y = (n*(n+1)*(2*n+1)/6);
         System.out.println("Sum of Square:" + y);
-		int c = (n*(n+1)/2)*(n*(n+1)/2);
-		System.out.println("Sum of Cube:" + c);
+	int c = (n*(n+1)/2)*(n*(n+1)/2);
+	System.out.println("Sum of Cube:" + c);
 
 	}
 	catch(Exception e)
