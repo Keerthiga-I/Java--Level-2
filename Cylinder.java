@@ -12,7 +12,7 @@ public static void main (String[] args)
         System.out.println("Enter a r value:");
         String s1 = br.readLine();
         int r = Integer.parseInt(s1);
-		System.out.println("Enter a H value:");
+	System.out.println("Enter a H value:");
         String s2 = br.readLine();
         int h = Integer.parseInt(s2);
         System.out.println("RESULT");
